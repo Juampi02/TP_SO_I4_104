@@ -1,0 +1,4 @@
+Color TESTING blue
+Color DESARROLLO yellow
+Color main yellow
+Quedo el favicon de BETA
